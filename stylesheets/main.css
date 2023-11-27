@@ -1,0 +1,43 @@
+*{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Vina Sans', sans-serif;
+    font-family: 'Ephesis', cursive;
+}
+
+html{
+    background-image: url(assets/Immagine1.png);
+    background-size: cover;
+}
+body{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.titolone{
+    padding-top: 35vh;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+#titolo{
+    text-align: center;
+    color: aliceblue;
+    font-family:'Ephesis', cursive; 
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+}
+
+#p1{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+}
