@@ -41,3 +41,10 @@ body{
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 15px;
 }
+
+#b1{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 18px;
+}
